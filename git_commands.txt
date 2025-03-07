@@ -1,0 +1,13 @@
+  1 
+   2 git init
+   3 git status
+   4 git add testing.py
+   5 git status
+   6 git commit -m "added testing ...
+   7 git status
+   8 rm testing.py   //to delete file
+   9 git  status
+  10 git restore testing.py    //restore delete file
+  11 history
+  12 ls
+  13 clear 
